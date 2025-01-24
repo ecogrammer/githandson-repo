@@ -1,1 +1,5 @@
-git勉強会ハンズオン
+# git勉強会ハンズオン
+
+- KEP
+- manno
+- Fukuoka
